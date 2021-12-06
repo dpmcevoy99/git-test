@@ -2,3 +2,4 @@ New Branch File.txt
 One
 Two
 Three
+Four
